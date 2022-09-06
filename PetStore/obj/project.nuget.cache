@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+E8jyyix74ukAo+lPuwz28+4BYs6Cv8jxcI8nmO9E4lpM0DRIaXUSoMMnhz/6VaMeBlF3FcSkRTD+Rq9T8NTUg==",
+  "dgSpecHash": "jNXYAe6hD/B4g/DT/aYrzocA5k5rSJM1VpxXYsbLIU5aN6v3mH+Y0ZKT91G17l4KhPxwsR8rj0eYiUTA57OIVQ==",
   "success": true,
-  "projectFilePath": "/Users/Orenji/Desktop/Code Louisville Exercises/Software-2-Class-Exercise-1-main/PetStore/PetStore/PetStore.csproj",
+  "projectFilePath": "/Users/Orenji/Desktop/CodeLouisvilleExercises/Software-2-Class-Exercise-1-main/PetStore/PetStore/PetStore.csproj",
   "expectedPackageFiles": [
+    "/Users/Orenji/.nuget/packages/fluentvalidation/11.2.1/fluentvalidation.11.2.1.nupkg.sha512",
     "/Users/Orenji/.nuget/packages/microsoft.extensions.configuration/6.0.0/microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "/Users/Orenji/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "/Users/Orenji/.nuget/packages/microsoft.extensions.configuration.binder/6.0.0/microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",

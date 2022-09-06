@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Orenji/Desktop/Code Louisville Exercises/Software-2-Class-Exercise-1-main/PetStore/PetStore/PetStore.csproj": {}
+    "/Users/Orenji/Desktop/CodeLouisvilleExercises/Software-2-Class-Exercise-1-main/PetStore/PetStore/PetStore.csproj": {}
   },
   "projects": {
-    "/Users/Orenji/Desktop/Code Louisville Exercises/Software-2-Class-Exercise-1-main/PetStore/PetStore/PetStore.csproj": {
+    "/Users/Orenji/Desktop/CodeLouisvilleExercises/Software-2-Class-Exercise-1-main/PetStore/PetStore/PetStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Orenji/Desktop/Code Louisville Exercises/Software-2-Class-Exercise-1-main/PetStore/PetStore/PetStore.csproj",
+        "projectUniqueName": "/Users/Orenji/Desktop/CodeLouisvilleExercises/Software-2-Class-Exercise-1-main/PetStore/PetStore/PetStore.csproj",
         "projectName": "PetStore",
-        "projectPath": "/Users/Orenji/Desktop/Code Louisville Exercises/Software-2-Class-Exercise-1-main/PetStore/PetStore/PetStore.csproj",
+        "projectPath": "/Users/Orenji/Desktop/CodeLouisvilleExercises/Software-2-Class-Exercise-1-main/PetStore/PetStore/PetStore.csproj",
         "packagesPath": "/Users/Orenji/.nuget/packages/",
-        "outputPath": "/Users/Orenji/Desktop/Code Louisville Exercises/Software-2-Class-Exercise-1-main/PetStore/PetStore/obj/",
+        "outputPath": "/Users/Orenji/Desktop/CodeLouisvilleExercises/Software-2-Class-Exercise-1-main/PetStore/PetStore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Orenji/.nuget/NuGet/NuGet.Config"
@@ -39,6 +39,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.1, )"
+            },
             "Microsoft.Extensions.Hosting": {
               "target": "Package",
               "version": "[6.0.1, )"
